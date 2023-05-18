@@ -1,0 +1,5 @@
+@import "@grapecity/activereports/styles/ar-js-ui.css";
+@import "@grapecity/activereports/styles/ar-js-viewer.css";
+body {
+    margin: 0;
+}
